@@ -1,5 +1,11 @@
 # YAPTD
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8a10ba43-8bd6-41e6-af96-ab509b511990/deploy-status)](https://app.netlify.com/sites/yatpd-blog/deploys)
+
+
+
+
+
 ## Supported Front Matter
 
 Name | Description | Notes
