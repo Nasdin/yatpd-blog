@@ -1,4 +1,3 @@
-baseURL = "https://yatpd.org"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Youth Association for Theological and Philosophical Discourse  -- Where Faith meets Reason"
-theme = "MemE"
+title = "My New Hugo Site"
