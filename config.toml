@@ -3,7 +3,7 @@
 
 baseURL = "https://yatpd.org"
 title = "Youth Association for Theological and Philosophical Discourse  -- Where Faith meets Reason"
-languageCode = "en"
+languageCode = "en-us"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
 copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)"
