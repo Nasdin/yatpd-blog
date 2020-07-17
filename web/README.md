@@ -1,1 +1,0 @@
-# yatpd-blog-web
